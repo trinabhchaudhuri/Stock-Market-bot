@@ -1,4 +1,4 @@
-# Coinflip Bot
+# Stock Market & Casino Bot
 
 Discord bot for economy, stocks, blackjack, and chart generation.
 
